@@ -1,4 +1,11 @@
-## Hi there 👋
+# Здрасьте!
+Программирование это моё хобби.
+
+Программирую на почти всех популярных языках: C#, C++, Java, Python, Kotlin, Lua и ищё возможно что я забыл.
+
+[![Ещё стата](https://github-readme-stats.vercel.app/api?username=ke46138)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Моя стата](https://github-readme-stats.vercel.app/api/top-langs/?username=ke46138)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ke46138/ke46138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
