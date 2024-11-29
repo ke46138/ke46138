@@ -1,8 +1,3 @@
-# Здрасьте!
-Программирование это моё хобби.
-
-Программирую на почти всех популярных языках: C#, C++, Java, Python, Kotlin, Lua и ищё возможно что я забыл.
-
 [![Ещё стата](https://github-readme-stats.vercel.app/api?username=ke46138)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Моя стата](https://github-readme-stats.vercel.app/api/top-langs/?username=ke46138)](https://github.com/anuraghazra/github-readme-stats)
